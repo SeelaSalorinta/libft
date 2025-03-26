@@ -1,4 +1,4 @@
-🏗️ Libft – Building My First C Library
+# 🏗️ Libft – Building My First C Library
 
 This was my very first project at Hive Helsinki! 🚀 I wrote my own C library by reimplementing essential standard functions from scratch. Along the way, I also created a header file and a Makefile to tie everything together.
 
